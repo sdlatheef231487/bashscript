@@ -1,0 +1,9 @@
+
+if [ -e "/root/t2" ];
+then
+   echo "directory exists."
+else
+   echo "  directory does not exist."
+
+
+

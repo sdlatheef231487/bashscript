@@ -1,0 +1,9 @@
+
+if [ -e "/root/tt" ];
+then
+    echo "directory exists."
+else
+        echo "  directory does not exist."
+fi
+[root@ip-172-31-87-51 bash]#
+i

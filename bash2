@@ -1,0 +1,8 @@
+!#/bin/bash
+
+if [ -e "/root/tt" ];
+then
+    echo "directory exists."
+else
+	echo "	directory does not exist."
+fi
